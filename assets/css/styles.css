@@ -525,9 +525,9 @@
     width: 60%;
   }
 
-  .skills__flutter {
+  /* .skills__flutter {
     width: 70%;
-  }
+  } */
 
   .skills__sql {
     width: 80%;
@@ -548,17 +548,24 @@
   .skills__python {
     width: 80%;
   }
+  .skills__pythonSkill3{
+    width: 80%;
+  }
 
   .skills__cpp {
     width: 90%;
   }
 
-  .skills__java {
-    width: 70%;
+  .skills__iOS {
+    width: 40%;
   }
 
-  .skills__pythonSkill3 {
-    width: 80%;
+  .skills__java{
+    width: 30%;
+  }
+
+  .skills__web {
+    width: 20%;
   }
 
   .skills__pythonSkill4 {
